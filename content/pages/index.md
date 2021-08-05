@@ -108,7 +108,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Personal theme
     - name: 'twitter:image'
-      value: images/personal-preview.png
+      value: /images/New Tab - Google Chrome 05-08-2021 12_50_35.png
       relativeUrl: true
 layout: advanced
 ---
