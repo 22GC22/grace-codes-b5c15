@@ -103,7 +103,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
-      value: website
+      value: summary_large_image
     - name: 'twitter:title'
       value: GC CODES
     - name: 'twitter:description'
