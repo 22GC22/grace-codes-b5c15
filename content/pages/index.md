@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m Garima. I am a developer who is figuring things out as she goes!'
-    subtitle: You can contact me for website designing nad python projects.
+    subtitle: >-
+      You can contact me for website designing nad python projects. I'll help
+      you in anyway I can!
     actions:
       - label: Contact Me
         url: /contact
