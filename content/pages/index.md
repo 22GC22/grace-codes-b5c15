@@ -106,7 +106,7 @@ seo:
     - name: 'twitter:title'
       value: GC CODES
     - name: 'twitter:description'
-      value: The preview of the Personal theme
+      value: My personal blogs where I share as I learn!
     - name: 'twitter:image'
       value: /images/New Tab - Google Chrome 05-08-2021 12_50_35.png
       relativeUrl: true
