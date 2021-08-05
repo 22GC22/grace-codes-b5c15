@@ -28,7 +28,7 @@ sections:
         content: "We all love python to a certain degree and the language doesn't\_let us down either. It's simplicity is flawless and shortness of the codes garners everyone's attention towards it like *\"Hey, look at that!\"*, am I right? But what makes it so great? Lets talk about it in detail.\n"
         actions:
           - label: Continue Reading
-            url: blog/5-reasons-python
+            url: /blog/5-reasons-python
             style: primary
             has_icon: true
             icon: arrow-right
