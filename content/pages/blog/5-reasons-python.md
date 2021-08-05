@@ -3,7 +3,6 @@ title: 5 reasons why you can't help BUT love python!
 date: '2021-08-05'
 categories: []
 tags: []
-excerpt: lorem-ipsum
 thumb_image_alt: python
 image_alt: python
 image_position: top
