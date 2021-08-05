@@ -95,7 +95,7 @@ seo:
       value: GC CODES
       keyName: property
     - name: 'og:description'
-      value: My personal blogs where I share as I learn!
+      value: My personal blog where I share as I learn!
       keyName: property
     - name: 'og:image'
       value: /images/New Tab - Google Chrome 05-08-2021 12_50_35 (2).png
