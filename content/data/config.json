@@ -125,5 +125,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://gc-codes.netlify.app"
+    "domain": "https://gc-codes.netlify.app",
+    "favicon": "/images/12bb11abc883d98ed6231001f06042ca.png"
 }
