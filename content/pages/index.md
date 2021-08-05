@@ -86,7 +86,7 @@ sections:
     background_image_opacity: 8
 seo:
   title: GC CODES
-  description: My personal blogs where I share as I learn!
+  description: My personal blog where I share as I learn!
   extra:
     - name: 'og:type'
       value: website
