@@ -40,7 +40,7 @@ export default class Icon extends React.Component {
 
             case 'code-pen':
                 return (
-                    <svg className="icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M22 10.75h-15.212l6.988-6.988-1.775-1.763-10 10 10 10 1.763-1.763-6.975-6.988h15.212v-2.5z" /></svg>
+                    <img src="https://www.example.com/foo.jpg">
                 );
 
             case 'twitter':
