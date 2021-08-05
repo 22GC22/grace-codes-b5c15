@@ -21,7 +21,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: features_section
-    title: My services
+    title: New Posts
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
