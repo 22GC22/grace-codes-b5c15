@@ -25,10 +25,7 @@ sections:
     features:
       - title: 5 reasons why you can't hep but LOVE python
         subtitle: "Python, our very own Slytherin\_of programming languages."
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: "We all love python to a certain degree and the language doesn't\_let us down either. It's simplicity is flawless and shortness of the codes garners everyone's attention towards it like *\"Hey, look at that!\"*, am I right? But what makes it so great? Lets talk about it in detail.\n"
         actions:
           - label: See Writing Samples
             url: /faq
