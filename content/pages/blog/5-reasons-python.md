@@ -5,7 +5,7 @@ categories: []
 tags: []
 thumb_image_alt: python
 image_alt: python
-image_position: top
+image_position: right
 seo:
   title: ''
   description: ''
