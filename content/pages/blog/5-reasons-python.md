@@ -5,7 +5,7 @@ categories: []
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
-image_alt: lorem-ipsum
+image_alt: python
 image_position: top
 seo:
   title: ''
