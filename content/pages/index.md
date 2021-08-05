@@ -87,7 +87,7 @@ sections:
 seo:
   title: GC CODES
   description: My personal blog where I share as I learn!
-        value: /images/New Tab - Google Chrome 05-08-2021 12_50_35 (2).png
+value: /images/New Tab - Google Chrome 05-08-2021 12_50_35 (2).png
 
   extra:
     - name: 'og:type'
