@@ -94,7 +94,7 @@
                 "label": "codepen",
                 "url": "https://codepen.io/22GC22",
                 "style": "link",
-                "has_icon": false,
+                "has_icon": true,
                 "icon": "vimeo",
                 "icon_position": "right",
                 "new_window": false,
