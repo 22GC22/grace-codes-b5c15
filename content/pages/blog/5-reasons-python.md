@@ -85,8 +85,6 @@ Your format would be something like this-
     else:
     # Code
 
-
-
 Isn't it a lot better?
 
 ## 4. High-level Language
@@ -99,15 +97,15 @@ Python is an interpreted language which means that we don't need to first compil
 
 Take a look at how JAVA works-
 
-    C:Users
-
+    C:Users\*location*\ javac filename.java
+    C:Users\*location*\ java filename
 
 
 You first compile it and then in the next line you run it. Python shortens the time here.
 
 See here-
 
-    C:Users
+    C:Users\*location*\ filename.py
 
 
 
