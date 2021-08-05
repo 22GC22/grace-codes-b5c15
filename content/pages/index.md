@@ -98,7 +98,7 @@ seo:
       value: The preview of the Personal theme
       keyName: property
     - name: 'og:image'
-      value: images/personal-preview.png
+      value: /images/New Tab - Google Chrome 05-08-2021 12_50_35.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
