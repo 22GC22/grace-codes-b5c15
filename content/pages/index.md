@@ -23,7 +23,7 @@ sections:
   - type: features_section
     title: New Posts
     features:
-      - title: Content Creation
+      - title: 5 reaseon why you can't hep but LOVE python
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
