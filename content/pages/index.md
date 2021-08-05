@@ -24,7 +24,7 @@ sections:
     title: New Posts
     features:
       - title: 5 reasons why you can't hep but LOVE python
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: "Python, our very own Slytherin\_of programming languages."
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
