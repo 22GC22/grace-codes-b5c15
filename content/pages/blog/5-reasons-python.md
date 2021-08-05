@@ -32,8 +32,7 @@ Like in JAVA where you have to have a basic layout of this-
     }
     }
 
-```
-```
+
 
 Although this whole thing is important for various reasons such as multithreading we won't be talking about it right now.
 
@@ -41,8 +40,7 @@ Python doesn't ask you for this. You can get the same output if you say-
 
     print("Hello World")
 
-```
-```
+
 
 Can it be any shorter?
 
@@ -60,21 +58,23 @@ But python won't let you!
 
 Take a look at this- \[It's a dead non-indented code]
 
-> class A{
-> public static void main(String\[] args) {
-> if(true){
-> // Your code
-> if(true){
-> // Some code again
-> }
-> else{
-> // code code
-> }
-> }
-> else{
-> // code}
-> }
-> }
+    class A{
+    public static void main(String[] args) {
+    if(true){
+    // Your code
+    if(true){
+    // Some code again
+    }
+    else{
+    // code code
+    }
+    }
+    else{
+    // code}
+    }
+    }
+
+
 
 I haven't written much but without indenting it is hard to tell the sub-conditions apart from the parent conditions. If you don't pay attention to the brackets you might be stuck for a long time. Now imagine if the code was a lot longer. It would be a hell of a nightmare to figure what is a part of what!
 
