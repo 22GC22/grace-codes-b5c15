@@ -1,6 +1,5 @@
 ---
 title: 5 reasons why you can't help BUT love python!
-subtitle: lorem-ipsum
 date: '2021-08-05'
 categories: []
 tags: []
