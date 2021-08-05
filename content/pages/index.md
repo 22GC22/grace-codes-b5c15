@@ -125,10 +125,12 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - type: form_section
-    content: |
+    content: >
       ## Let's talk
 
-      How do you take your coffee?
+
+      I'd love to here from you and have some chat about anything and
+      everything. How do you take your coffee?
     content_align: left
     form_position: right
     form_width: fifty
