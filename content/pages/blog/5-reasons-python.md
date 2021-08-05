@@ -14,6 +14,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: /images/python.png
+image: /images/python.png
 ---
 Python, our very own Slytherin of programming languages. We all love python to a certain degree and the language doesn't let us down either. It's simplicity is flawless and shortness of the codes garners everyone's attention towards it like "Hey, look at that!", am I right?
 
