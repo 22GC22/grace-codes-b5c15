@@ -26,17 +26,23 @@ Python is short, sweet, and simple. The language doesn't require any fancy wordi
 
 Like in JAVA where you have to have a basic layout of this-
 
-> class A{
-> public static void main(String[] args) {
-> System.out.print("Hello World");
-> }
-> }
+    class A{
+    public static void main(String[] args) {
+    System.out.print("Hello World");
+    }
+    }
 
-Although this whole thing is important for various reasons such as multithreading we won't be talking about it right now.
+```
+```
+
+Although this whole thing is important for various reasons such as multithreading we won't be talking about it right now.
 
 Python doesn't ask you for this. You can get the same output if you say-
 
-> print("Hello World")
+    print("Hello World")
+
+```
+```
 
 Can it be any shorter?
 
@@ -55,7 +61,7 @@ But python won't let you!
 Take a look at this- \[It's a dead non-indented code]
 
 > class A{
-> public static void main(String[] args) {
+> public static void main(String\[] args) {
 > if(true){
 > // Your code
 > if(true){
@@ -99,7 +105,6 @@ Take a look at how JAVA works-
 
 > C:Users*location*\ javac filename.java
 > C:Users*location*\ java filename
->>
 
 You first compile it and then in the next line you run it. Python shortens the time here.
 
