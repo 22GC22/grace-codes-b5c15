@@ -40,7 +40,7 @@ export default class Icon extends React.Component {
 
             case 'code-pen':
                 return (
-                    <img src="https://www.example.com/foo.jpg">
+                    <img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png">
                 );
 
             case 'twitter':
