@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m Garima. I am a developer who is figuring things out as she goes!'
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: 'You can contact me '
     actions:
       - label: Contact Me
         url: /contact
