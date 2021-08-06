@@ -109,7 +109,7 @@ seo:
     - name: 'twitter:description'
       value: My personal blog where I share as I learn!
     - name: 'twitter:image'
-      value: /images/New Tab - Google Chrome 05-08-2021 12_50_35 (2).png
+      value: /images/GC CODES - Google Chrome 06-08-2021 14_05_03 (2).png
       relativeUrl: true
 layout: advanced
 ---
