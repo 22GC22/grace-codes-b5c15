@@ -9,16 +9,18 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >+
+    content: >
       # Let's talk
 
 
       I'd love to here from you and have some chat about anything and
-      everything. How do you take your coffee?
+      everything. 
+
+
+      How do you take your coffee?
 
 
       ![](https://preview--gc-codes-b5c15.stackbit.dev/\_static/app-assets/images/scientific-whale.png)
-
     content_align: left
     form_position: left
     form_width: fifty
