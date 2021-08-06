@@ -73,7 +73,7 @@ seo:
       value: This is the contact page. I will reach you as soon as possible!
       keyName: property
     - name: 'twitter:card'
-      value: summary
+      value: summary_large_image
     - name: 'twitter:title'
       value: Contact
     - name: 'twitter:description'
