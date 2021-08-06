@@ -12,7 +12,11 @@ seo:
     These are the reasons why I believe that python is the best programming
     language.(mostly)
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/About - Google Chrome 06-08-2021 09_43_23.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 thumb_image: /images/python.png
