@@ -7,7 +7,7 @@ thumb_image_alt: python
 image_alt: python
 image_position: right
 seo:
-  title: ''
+  title: 5 reasons to LOVE python
   description: ''
   robots: []
   extra: []
