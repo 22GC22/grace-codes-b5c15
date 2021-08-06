@@ -17,6 +17,10 @@ seo:
       value: /images/About - Google Chrome 06-08-2021 09_43_23.png
       keyName: property
       relativeUrl: true
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_image: /images/python.png
