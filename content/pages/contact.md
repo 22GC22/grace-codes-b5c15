@@ -61,7 +61,7 @@ sections:
     background_image_opacity: 8
 seo:
   title: Contact
-  description: This is the contact page
+  description: This is the contact page.  I will reach you as soon as possible!
   extra:
     - name: 'og:type'
       value: website
