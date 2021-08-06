@@ -14,7 +14,7 @@ seo:
       value: This is the about page
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: /images/About - Google Chrome 06-08-2021 09_42_09 (2).png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
