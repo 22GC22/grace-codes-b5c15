@@ -8,7 +8,9 @@ image_alt: python
 image_position: right
 seo:
   title: 5 reasons to LOVE python
-  description: ''
+  description: >-
+    These are the reasons why I believe that python is the best programming
+    language.(mostly)
   robots: []
   extra: []
   type: stackbit_page_meta
