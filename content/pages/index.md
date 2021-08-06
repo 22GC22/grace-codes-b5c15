@@ -99,7 +99,7 @@ seo:
       value: My personal blog where I share as I learn!
       keyName: property
     - name: 'og:image'
-      value: /images/New Tab - Google Chrome 05-08-2021 12_50_35 (2).png
+      value: /images/GC CODES - Google Chrome 06-08-2021 14_05_03 (2).png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
