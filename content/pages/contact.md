@@ -9,7 +9,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >
+    content: >+
       # Let's talk
 
 
@@ -17,7 +17,8 @@ sections:
       everything. How do you take your coffee?
 
 
-      ![](/images/coffee.png)
+      ![](https://preview--gc-codes-b5c15.stackbit.dev/\_static/app-assets/images/scientific-whale.png)
+
     content_align: left
     form_position: left
     form_width: fifty
