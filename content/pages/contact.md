@@ -78,5 +78,11 @@ seo:
       value: Contact
     - name: 'twitter:description'
       value: This is the contact page. I will reach you as soon as possible!
+    - name: 'og:image'
+      value: >-
+        /images/gc-codes - Stackbit App - Google Chrome 06-08-2021 09_56_48
+        (2).png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
